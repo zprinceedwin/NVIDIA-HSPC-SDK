@@ -1,0 +1,6 @@
+# ninja log v6
+2	817	7638490285328006	CMakeFiles/technicalsummative.dir/main.cpp.obj	203c66d4e0dffb38
+57	1824	7638490285870263	CMakeFiles/technicalsummative.dir/openacc_cpu.cpp.obj	4f6c6a3cc83bf1c6
+28	1851	7638490285579881	CMakeFiles/technicalsummative.dir/sequential.cpp.obj	c919905edcba203f
+82	1871	7638490286110215	CMakeFiles/technicalsummative.dir/openacc_gpu.cpp.obj	21f3b329b742c9b2
+108	1890	7638490286389572	CMakeFiles/technicalsummative.dir/openacc_gpu_mem.cpp.obj	12334a5797e83447

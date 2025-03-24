@@ -1,0 +1,3 @@
+C:/Users/Prince/CLionProjects/technicalsummative/cmake-build-debug/CMakeFiles/technicalsummative.dir
+C:/Users/Prince/CLionProjects/technicalsummative/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Prince/CLionProjects/technicalsummative/cmake-build-debug/CMakeFiles/rebuild_cache.dir
